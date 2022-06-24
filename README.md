@@ -1,5 +1,5 @@
-![reversal](https://capsule-render.vercel.app/api?type=transparent&height=50&text=My_Introduction&fontAlign=50&fontAlignY=55&fontSize=40&fontColor=A7B1F2)
-
+<!-- ![reversal](https://capsule-render.vercel.app/api?type=transparent&height=50&text=My_Introduction&fontAlign=50&fontAlignY=55&fontSize=40&fontColor=A7B1F2)
+-->
 ---
 ### baekjoon
 
