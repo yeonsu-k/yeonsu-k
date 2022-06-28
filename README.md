@@ -5,6 +5,7 @@
 ### :computer: Project
 - 취업&이직 직장인들을 위한 집 추천 웹 
 
+---
 <div align=center>
  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right:10px">
     <img align="center"
