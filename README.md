@@ -1,10 +1,11 @@
-### :briefcase: 이력
+### :mortar_board: 이력
 - 한남대학교 멀티미디어공학전공(2018.03.02~2022.02.11)
 - 공공 빅데이터 청년 인턴쉽(2021.07.05~2021.12.31)
 - 삼성 청년 SW아카데미(2022.01.05~)
-### :pencil2: 프로젝트
+### :computer: 프로젝트
 - 취업&이직 직장인들을 위한 집 추천 웹 
-- 
+
+
 <div align=center>
  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right:10px">
     <img align="center"
