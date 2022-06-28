@@ -1,31 +1,16 @@
-![reversal](https://capsule-render.vercel.app/api?type=transparent&height=50&text=My%20Introduction&fontAlign=50&fontAlignY=55&fontSize=40&fontColor=A7B1F2)
-
----
-<!-- 깃허브 꾸미기 참고
-  https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC#-badge-%EB%B1%83%EC%A7%80 -->
+### :briefcase: 이력
+- 한남대학교 멀티미디어공학전공(2018.03.02~2022.02.11)
+- 공공 빅데이터 청년 인턴쉽(2021.07.05~2021.12.31)
+- 삼성 청년 SW아카데미(2022.01.05~)
+### :pencil2: 프로젝트
+- 취업&이직 직장인들을 위한 집 추천 웹 
+- 
 <div align=center>
-
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsu-k&layout=compact&langs_count=8&custom_title=Used%20Languages)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonsu-k&custom_title=GitHub%20Stats&include_all_commits=true&show_icons=true&count_private=true&line_height=20&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dustn4325)](https://solved.ac/dustn4325)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dustn4325&theme=warm)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonsu-k&count_bg=%23303030&title_bg=%23000000&icon=github.svg&icon_color=%23FCFCFC&title=Github&edge_flat=false)](https://hits.seeyoufarm.com) -->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right:10px">
+ <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right:10px">
     <img align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsu-k&layout=compact&langs_count=8&custom_title=Used%20Languages" />
   </a>
-  <div>
-    <pre>...수정예정...</pre>
-  </div>
   <a href="https://solved.ac/dustn4325">
     <img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=dustn4325" />
   </a>
-  <a href="https://solved.ac/dustn4325">
-    <img align="center" src="http://mazandi.herokuapp.com/api?handle=dustn4325&theme=warm" />
-  </a>
-
 </div>
