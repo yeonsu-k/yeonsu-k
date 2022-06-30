@@ -7,7 +7,7 @@
 
 ---
 <div align=center>
- <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right:10px">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsu-k&layout=compact&langs_count=8&custom_title=Used%20Languages" />
   </a>
