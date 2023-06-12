@@ -3,7 +3,7 @@
 </div>
 
 ### 👋 Hi there
-> [**꾸준한 도전**](#)을 통해 [**지속 성장**](#)하는 **프론트엔드 개발자 김연수**입니다.
+> **꾸준한 도전**을 통해 **지속 성장**하는 **프론트엔드 개발자 김연수**입니다.
 
 <div align="left">
   <h3> 🛠 Tech Stack </h3>
@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
+<br>
 
 <a href="https://github.com/yeonsu-k/yeonsu-k">
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsu-k&langs_count=6&layout=compact&custom_title=Used%20Languages&hide=Dockerfile" />
