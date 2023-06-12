@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
-<br>
+<br><br>
 
 <a href="https://github.com/yeonsu-k/yeonsu-k">
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsu-k&langs_count=6&layout=compact&custom_title=Used%20Languages&hide=Dockerfile" />
