@@ -20,12 +20,10 @@
   <img src="https://img.shields.io/badge/Figma-9999FF?style=for-the-badge&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <br><br>
 </div>
-<br><br>
 
-<a href="https://github.com/yeonsu-k/yeonsu-k">
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsu-k&langs_count=6&layout=compact&custom_title=Used%20Languages&hide=Dockerfile" />
-</a>
+<a href="https://github.com/yeonsu-k/yeonsu-k"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsu-k&langs_count=6&layout=compact&custom_title=Used%20Languages&hide=Dockerfile" /></a>
 
 ### 🎓 Experience
 - 한남대학교 멀티미디어공학전공(2018.03.02~2022.02.11)
@@ -33,7 +31,6 @@
 - 삼성 청년 SW아카데미(2022.01.05~2022.12.30)
 
 ### 💻 Project
-<img align="right" src="[http://mazassumnida.wtf/api/v2/generate_badge?boj=dustn4325](https://github-readme-stats.vercel.app/api?username=yeonsu-k&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)">
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dustn4325">
 
 - 대전 이륜차 사고지점 웹 페이지 시각화
@@ -41,4 +38,3 @@
 - 자체 커뮤니티와 함께 화상회의가 가능한 교육 플랫폼
 - 감정 분석을 통한 나만의 감정 일기장
 - 깃허브 블로그 생성 및 게시글 관리 GUI 오픈소스
-
