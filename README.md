@@ -21,17 +21,16 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
-<br>
+<br><br>
 
-### 🎓 Experience
 <a href="https://github.com/yeonsu-k/yeonsu-k">
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsu-k&langs_count=6&layout=compact&custom_title=Used%20Languages&hide=Dockerfile" />
 </a>
 
+### 🎓 Experience
 - 한남대학교 멀티미디어공학전공(2018.03.02~2022.02.11)
 - 공공 빅데이터 청년 인턴쉽(2021.07.05~2021.12.31)
 - 삼성 청년 SW아카데미(2022.01.05~2022.12.30)
-<br>
 
 ### 💻 Project
 <img align="right" src="[http://mazassumnida.wtf/api/v2/generate_badge?boj=dustn4325](https://github-readme-stats.vercel.app/api?username=yeonsu-k&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)">
