@@ -4,7 +4,6 @@
 
 ### 👋 Hi there
 > [**꾸준한 도전**](#)을 통해 [**지속 성장**](#)하는 **프론트엔드 개발자 김연수**입니다.
-<br>
 
 <div align="left">
   <h3> 🛠 Tech Stack </h3>
@@ -23,18 +22,14 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-<br><br>
-
 <a href="https://github.com/yeonsu-k/yeonsu-k">
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsu-k&langs_count=6&layout=compact&custom_title=Used%20Languages&hide=Dockerfile" />
 </a>
-
 
 ### 🎓 Experience
 - 한남대학교 멀티미디어공학전공(2018.03.02~2022.02.11)
 - 공공 빅데이터 청년 인턴쉽(2021.07.05~2021.12.31)
 - 삼성 청년 SW아카데미(2022.01.05~2022.12.30)
-<br>
 
 
 ### 💻 Project
