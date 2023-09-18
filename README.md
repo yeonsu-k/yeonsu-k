@@ -26,10 +26,12 @@
 
 <a href="https://github.com/yeonsu-k/yeonsu-k"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonsu-k&langs_count=6&layout=compact&custom_title=Used%20Languages&hide=Dockerfile" /></a>
 
+<!--
 ### 🎓 Experience
 - 한남대학교 멀티미디어공학전공(2018.03.02~2022.02.11)
 - 공공 빅데이터 청년 인턴쉽(2021.07.05~2021.12.31)
 - 삼성 청년 SW아카데미(2022.01.05~2022.12.30)
+-->
 
 ### 💻 My project
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dustn4325">
