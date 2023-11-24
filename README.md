@@ -3,7 +3,7 @@
 </div>
 
 ### 👋 Hi there
-> **꾸준한 성장**을 꿈꾸며 미래에 도전하는 **프론트엔드 개발자 김연수**입니다.
+> **꾸준한 성장**으로 미래에 도전하는 **프론트엔드 개발자 김연수**입니다.
 
 <div align="left">
   <h3> 🛠 Tech Stack </h3>
@@ -29,13 +29,12 @@
 
 
 ### 🎓 Experience
-- 한남대학교 멀티미디어공학전공(2018.03.02~2022.02.11)
 - 공공 빅데이터 청년 인턴쉽(2021.07.05~2021.12.31)
 - 삼성 청년 SW아카데미(2022.01.05~2022.12.30)
 -->
 
 ### 💻 My project
-
+- [ShadowMate](https://github.com/NewSainTurtle/ShadowMate) - 스터디 플래너 웹 개발 프로젝트
 - [Prologue](https://github.com/yeonsu-k/prologue) - 깃허브 블로그 생성 및 게시글 관리 GUI 오픈소스
 - [몽글몽글](https://github.com/mgmg-pjt/mgmg) - 감정 분석을 통한 나만의 감정 일기장
 - [ATTI](https://github.com/yeonsu-k/ATTI) - 자체 커뮤니티와 함께 화상회의가 가능한 교육 플랫폼
